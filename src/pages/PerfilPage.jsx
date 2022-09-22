@@ -12,9 +12,9 @@ export const PerfilPage = () => {
         dar lo mejor de mi.</h5>
       </div>
       <div className=" flex md:grid-flow-col mr-8 justify-center">
-        <img src="/public/1.svg" alt="Js" className=' xl:w-10/12' />
-        <img src="/public/2.svg" alt="Html" className='xl:w-10/12 mb-16 pb-16'/>
-        <img src="/public/3.svg" alt="Css" className=' xl:w-10/12'/>
+        <img src="/1.svg" alt="Js" className=' xl:w-10/12' />
+        <img src="/2.svg" alt="Html" className='xl:w-10/12 mb-16 pb-16'/>
+        <img src="/3.svg" alt="Css" className=' xl:w-10/12'/>
       </div>
 
     </div>
