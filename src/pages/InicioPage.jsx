@@ -19,7 +19,7 @@ export const InicioPage = () => {
             </button>
       </div>
       <div className='flex md:justify-center mr-12 w-full  '>
-        <img src="/src/assets/aless-foto.png" alt="" className='w-5/12 md:w-9/12 mt-5' />
+        <img src="/public/aless-foto.png" alt="" className='w-5/12 md:w-9/12 mt-5' />
       </div>
     </div>
   );
