@@ -20,7 +20,7 @@ export const proyectos = [
     titulo: "Landing",
     descripcion: "Landing Page, desarrollada con React y Tailwindcss",
     url: "/landing.jpg",
-    url_preview: "https://facebook.com",
-    url_github: "https://facebook.com",
+    url_preview: "https://landing-page-react-aless.netlify.app/",
+    url_github: "https://github.com/Alessbd/LandingPage-React",
   },
 ];
